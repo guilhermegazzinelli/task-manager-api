@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/grohrmann/.platformio/penv/bin:/home/grohrmann/.rbenv/plugins/ruby-build/bin:/home/grohrmann/.rbenv/shims:/home/grohrmann/.rbenv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/local/share/npm/bin"
+    }
+}
